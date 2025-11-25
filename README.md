@@ -22,6 +22,6 @@ The system uses two rotary encoders, two force sensors, and a vibration motor mo
 ### Pin Summary:
 - Encoders: (3,2) for intensity, (5,4) for sensitivity
 - Force sensors: A0, A1
-- LEDs: 9, 10
+- LEDs: 9 (Intensity), 10 (Sensitivty)
 - System button + LED: 7, 8
 - Vibration output: 11
